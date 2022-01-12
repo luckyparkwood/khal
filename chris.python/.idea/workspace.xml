@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0aa10812-7348-4e8d-b9e2-d6f3b12f0a99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WlYVHqn8zIOk9qm9p0YGZhlXQR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris.bright\PycharmProjects\chris.python\projects" />
+      <recent name="C:\Users\chris.bright\PycharmProjects\chris.python\lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.read">
+    <configuration name="for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chris.python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/for_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chris.python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/number grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="puzzle.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chris.python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/euler_puzzles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/euler_puzzles/puzzle.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chris.python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="translator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chris.python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/translator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.read" />
+        <item itemvalue="Python.translator" />
+        <item itemvalue="Python.number grid" />
+        <item itemvalue="Python.puzzle.3" />
+        <item itemvalue="Python.for_loop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aa10812-7348-4e8d-b9e2-d6f3b12f0a99" name="Default Changelist" comment="" />
+      <created>1579725670980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579725670980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1942" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580221506158">
+      <screen x="1366" y="4" width="1920" height="1040" />
+    </state>
+    <state x="1942" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@1366.4.1920.1040" timestamp="1580221506158" />
+    <state width="1308" height="197" key="GridCell.Tab.0.bottom" timestamp="1580861088747">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144905" />
+    <state width="1501" height="266" key="GridCell.Tab.0.bottom/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@1366.4.1920.1040" timestamp="1580248480482" />
+    <state width="1489" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580220312535" />
+    <state width="1308" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1580852760933" />
+    <state width="1308" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@1920.0.1920.1040" timestamp="1580861088747" />
+    <state width="1308" height="197" key="GridCell.Tab.0.center" timestamp="1580861088746">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.center/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144905" />
+    <state width="1501" height="266" key="GridCell.Tab.0.center/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@1366.4.1920.1040" timestamp="1580248480482" />
+    <state width="1489" height="167" key="GridCell.Tab.0.center/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580220312534" />
+    <state width="1308" height="197" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1580852760932" />
+    <state width="1308" height="197" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@1920.0.1920.1040" timestamp="1580861088746" />
+    <state width="1308" height="197" key="GridCell.Tab.0.left" timestamp="1580861088746">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.left/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144904" />
+    <state width="1501" height="266" key="GridCell.Tab.0.left/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@1366.4.1920.1040" timestamp="1580248480482" />
+    <state width="1489" height="167" key="GridCell.Tab.0.left/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580220312534" />
+    <state width="1308" height="197" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1580852760931" />
+    <state width="1308" height="197" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@1920.0.1920.1040" timestamp="1580861088746" />
+    <state width="1308" height="197" key="GridCell.Tab.0.right" timestamp="1580861088747">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.0.right/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144905" />
+    <state width="1501" height="266" key="GridCell.Tab.0.right/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@1366.4.1920.1040" timestamp="1580248480482" />
+    <state width="1489" height="167" key="GridCell.Tab.0.right/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580220312534" />
+    <state width="1308" height="197" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1580852760932" />
+    <state width="1308" height="197" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@1920.0.1920.1040" timestamp="1580861088747" />
+    <state width="1489" height="221" key="GridCell.Tab.1.bottom" timestamp="1580159560074">
+      <screen x="3286" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144906" />
+    <state width="1489" height="221" key="GridCell.Tab.1.bottom/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580159560074" />
+    <state width="1489" height="221" key="GridCell.Tab.1.center" timestamp="1580159560073">
+      <screen x="3286" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.center/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144905" />
+    <state width="1489" height="221" key="GridCell.Tab.1.center/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580159560073" />
+    <state width="1489" height="221" key="GridCell.Tab.1.left" timestamp="1580159560073">
+      <screen x="3286" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.left/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144905" />
+    <state width="1489" height="221" key="GridCell.Tab.1.left/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580159560073" />
+    <state width="1489" height="221" key="GridCell.Tab.1.right" timestamp="1580159560073">
+      <screen x="3286" y="4" width="1920" height="1040" />
+    </state>
+    <state width="1308" height="208" key="GridCell.Tab.1.right/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@0.0.1366.728" timestamp="1579897144905" />
+    <state width="1489" height="221" key="GridCell.Tab.1.right/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580159560073" />
+    <state x="2805" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1580855940311">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2251" y="365" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@1366.4.1920.1040" timestamp="1580226773932" />
+    <state x="4171" y="365" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/3286.4.1920.1040/1366.4.1920.1040@3286.4.1920.1040" timestamp="1580148640591" />
+    <state x="2805" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040/-1366.0.1366.728@1920.0.1920.1040" timestamp="1580855940311" />
+  </component>
+</project>
